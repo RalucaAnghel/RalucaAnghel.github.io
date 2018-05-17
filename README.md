@@ -13,3 +13,9 @@ It was a great experience and I learned so many things along the way.
 There are a lot of things to improve, so keep in mind that I'm just beginning, although I have great plans!
 
 If you have any suggestions, cuestions or doubts please let me know.
+
+# Important  
+
+The image in the contact header I did it myself in photoshop.
+
+The scripts you can see in the code( javascript and json) I kept them because I was experimenting with those although it wasn't required.
