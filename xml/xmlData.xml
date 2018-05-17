@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<news>
+  <article>
+    <title>The first stars formed when the universe was less than 2% its 
+        current age</title>
+    <image> </image>
+    <text>The Atacama Large Millimeter/submillimeter Array (ALMA) is not your 
+        standard, run-of-the-mill telescope. Instead, ALMA, which is located in 
+        the high-and-dry Atacama Desert of northern Chile, is a radio telescope 
+        made up of 66 high-precision antennas
+    </text>
+    
+  </article>
+  
+  <article> 
+      <title> 
+      The first carbon-rich asteroid found in the Kuiper Belt
+      </title>
+       <image> </image>
+      <text>
+          It’s believed that our solar system’s gas giants caused quite a 
+          ruckus in their infancies. As they exited their tight orbits and 
+          began their outward migrations, their forceful journeys caused small,
+          rocky bodies in the inner solar system
+      </text>
+  </article>
+  
+    <article> 
+      <title> 
+      The first detection of helium in an exoplanet’s atmosphere
+      </title>
+       <image> </image>
+      <text>
+          In a new study published May 2 in the journal Nature, an international
+          team of researchers used a novel technique to probe the atmosphere of
+          the exoplanet WASP-107b, resulting in the first-ever detection of 
+          helium in the air of an alien world.
+      </text>
+  </article>
+</news>
