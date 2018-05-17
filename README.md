@@ -1,6 +1,6 @@
 # Markup-Languages-Project
 
-# You can visualiza the webpage here:
+# You can visualize the webpage here:
 # https://RalucaAnghel.github.io/
 
 # Hello World!
